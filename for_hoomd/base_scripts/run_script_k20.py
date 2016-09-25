@@ -1,4 +1,5 @@
 #!/home/farajii/bin/python_1_3.3/bin/python3
+#RUNNING HOOMD-BLUE CASES
 import sys, getopt, os
 
 def usage():

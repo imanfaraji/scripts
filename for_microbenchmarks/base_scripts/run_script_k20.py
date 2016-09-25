@@ -1,6 +1,6 @@
 #!/home/farajii/bin/python_1_3.3/bin/python3
 
-#MICROBENCHMARK PROFILER
+#RUNNING MICROBENCHMARKS 
 import sys, getopt, os
 
 def usage():
