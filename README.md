@@ -1,7 +1,7 @@
 # scripts
 In the following, I provide some of my recent sample scripts.
 
-Note that this script serves to demonstrate my scripting abiliity. It requires specific libraries and platform to run upto completion.
+Note that these scripts serve to demonstrate my scripting abiliity. It requires specific libraries and platform to run up to completion.
 
 This main script is:
 
